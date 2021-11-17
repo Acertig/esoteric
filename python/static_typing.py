@@ -48,4 +48,4 @@ def test(arg1: int, arg2: str, *args, **kwargs) -> int:
 
 test(1, 2, 1, 2)
 
-# I have no idea how this may behave when decorating something that isn't a function type. 
+# I have no idea how this may behave when decorating something that isn't a function type LOL
