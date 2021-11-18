@@ -1,4 +1,3 @@
-
 def default_return(value = None): 
     def factory(func): 
         def inner(*args, **kwargs): 
