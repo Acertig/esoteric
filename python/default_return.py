@@ -14,4 +14,4 @@ def test():
 
 print(test())
 
-# Gotta change this to adding the constant rather than modifying since I don't want to mess with actually using None
+# Gotta change this to adding the constant rather than modifying since I don't want to mess with actually pushing None into the stack.
